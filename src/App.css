@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+button{
+  background-color: black;
+  padding:20px;
+  border-radius: .5rem;
+  color:white;
+  border:none;
+  margin-bottom: 50px;
+}
+
+button:hover{
+  border:2px solid white;
+}
+
+button i{
+  margin-right: 10px;
+}
